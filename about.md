@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey, there!
+My name is David, A fake Chinese, living, studying, comedying, dreaming, talking, breathing, seeking in London.
+Here is my raw thought. You came here by google, Be my Guest. I'm working on my entrepreneurial business. 
+I would like to share something useful here. Basically, it's beneficial to me; if it's has the same impact on you. I am glad that happens.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+
+
+
